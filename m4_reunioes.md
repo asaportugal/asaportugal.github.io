@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reuniões
+title: Reuniões online
 link: Reuniões
 permalink: /reunioes/
 banner: 'assets/meeting.jpg'
@@ -10,7 +10,7 @@ banner: 'assets/meeting.jpg'
 
 **Linguas:** Português, Inglês
 
-**Horário:** Segundas-feiras - 19:30 (hora de Portugal Continental, GMT+0)
+**Horário:** Segundas-feiras às 19:30 (hora de Portugal Continental, GMT+0)
 
 **Duração:** 1h15m
 
