@@ -24,4 +24,4 @@ Se respondeu "sim" a mais do que uma pergunta, aconselhamos a procurar ajuda.
 <br> 
 <br>
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/euHKf-BkjKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="1120" height="630" src="https://www.youtube.com/embed/euHKf-BkjKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
