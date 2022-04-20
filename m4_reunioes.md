@@ -21,3 +21,5 @@ banner: 'assets/meeting.jpg'
 **Meeting ID:** 832 5163 9323
 
 **Passcode:** 121212
+
+**Local numbers:** <a href="https://us06web.zoom.us/u/kxOybRuDb" target="_blank">Find here.</a>
