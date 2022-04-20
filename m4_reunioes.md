@@ -14,4 +14,10 @@ banner: 'assets/meeting.jpg'
 
 **Duração:** 1h15m
 
-**Link:** <https://meet.jit.si/Intothelight2>
+### Zoom meeting
+
+**Link:** <https://us06web.zoom.us/j/83251639323?pwd=Sjc2ZDFFa2wzQUhDemxBNjFnaGdqUT09>
+
+**Meeting ID:** 832 5163 9323
+
+**Passcode:** 121212
