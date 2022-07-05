@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: "pt" }}">
 
   {%- include head.html -%}
 
@@ -9,7 +9,7 @@
     
     {%- if page.banner -%}
     <div class="hero">
-      <img class="feature-img" src="{{ page.banner | relative_url }}" />
+      <img alt="{{page.title}}" class="feature-img" src="{{ page.banner | relative_url }}" />
     </div>
     {%- endif -%}
 
