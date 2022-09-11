@@ -30,14 +30,14 @@ banner: 'assets/meeting.jpg'
 
 **Horário:** Quartas-feiras às 19:30 (hora de Portugal Continental, GMT+0)
 
-<!-- **Duração:** 1h15m -->
+**Duração:** 1h15m
 
 **Zoom meeting details:**
 
 **Link:** <https://us05web.zoom.us/j/85328429782?pwd=enNiVGdKOUtyWjRGV1RpQU15Q1NuQT09>
 
-<!-- **Meeting ID:** 832 5163 9323
+**Meeting ID:** 853 2842 9782
 
-**Passcode:** 121212
+**Passcode:** 123123
 
-**Local numbers:** <a href="https://us06web.zoom.us/u/kxOybRuDb" target="_blank">Find here.</a> -->
+<!-- **Local numbers:** <a href="https://us06web.zoom.us/u/kxOybRuDb" target="_blank">Find here.</a> --> 
