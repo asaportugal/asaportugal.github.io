@@ -10,34 +10,34 @@ banner: 'assets/meeting.jpg'
 
 **Linguas:** Português, Inglês
 
-**Horário:** Segundas-feiras às 19:30 (hora de Portugal Continental, GMT+0)
+**Horário:** Segundas-feiras (Mondays) às 19:30 (hora de Portugal Continental, GMT+0)
 
 **Duração:** 1h15m
 
-**Zoom meeting details:**
+**Detalhes da reunião do Zoom:**
 
 **Link:** <https://us06web.zoom.us/j/83251639323?pwd=Sjc2ZDFFa2wzQUhDemxBNjFnaGdqUT09>
 
-**Meeting ID:** 832 5163 9323
+**ID da reunião:** 832 5163 9323
 
-**Passcode:** 121212
+**Código de acesso:** 121212
 
-**Local numbers:** <a href="https://us06web.zoom.us/u/kxOybRuDb" target="_blank">Find here.</a>
+**Números locais:** <a href="https://us06web.zoom.us/u/kxOybRuDb" target="_blank">Encontre aqui.</a>
 
 ## 2- Viver em Sobriedade
 
-**Linguas:** Português
+**Lingua:** Português
 
 **Horário:** Quartas-feiras às 19:30 (hora de Portugal Continental, GMT+0)
 
 **Duração:** 1h15m
 
-**Zoom meeting details:**
+**Detalhes da reunião do Zoom:**
 
 **Link:** <https://us05web.zoom.us/j/85328429782?pwd=enNiVGdKOUtyWjRGV1RpQU15Q1NuQT09>
 
-**Meeting ID:** 853 2842 9782
+**ID da reunião:** 853 2842 9782
 
-**Passcode:** 123123
+**Código de acesso:** 123123
 
-<!-- **Local numbers:** <a href="https://us06web.zoom.us/u/kxOybRuDb" target="_blank">Find here.</a> --> 
+<!-- **Números locais:** <a href="https://us06web.zoom.us/u/kxOybRuDb" target="_blank">Encontre aqui.</a> --> 

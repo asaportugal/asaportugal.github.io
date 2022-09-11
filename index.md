@@ -14,3 +14,5 @@ Adictos ao Sexo Anónimos (Sex Addicts Anonymous - SAA em inglês) é uma irmand
 ​Se precisas de ajuda, ou conheces alguém que precise do nosso apoio, recomendamos-te que assistas às nossas [reuniões]({{ site.baseurl }}{% link m4_reunioes.md %}) ou que entres em [contacto](mailto:saalisbon@gmail.com) connosco. [O website internacional de ASA](https://saa-recovery.org) também contém recursos úteis (a língua portuguesa pode ser seleccionada a partir do canto superior esquerdo).
 
 Estamos aqui para ajudar, pois só podemos manter aquilo que partilharmos.
+
+**For English speakers:** Even if you don't speak Portuguese, you can still join our bilingual Monday [meetings]({{ site.baseurl }}{% link m4_reunioes.md %}), or send us an [e-mail](mailto:saalisbon@gmail.com).
