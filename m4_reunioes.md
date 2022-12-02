@@ -40,4 +40,21 @@ banner: 'assets/meeting.jpg'
 
 **Código de acesso:** 123123
 
+
+## 3- Viver em Sobriedade (2)
+
+**Lingua:** Português
+
+**Horário:** Sábados às 19:30 (hora de Portugal Continental, GMT+0)
+
+**Duração:** 1h15m
+
+**Detalhes da reunião do Zoom:**
+
+**Link:** <https://us05web.zoom.us/j/85328429782?pwd=enNiVGdKOUtyWjRGV1RpQU15Q1NuQT09>
+
+**ID da reunião:** 853 2842 9782
+
+**Código de acesso:** 123123
+
 <!-- **Números locais:** <a href="https://us06web.zoom.us/u/kxOybRuDb" target="_blank">Encontre aqui.</a> --> 
