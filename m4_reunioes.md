@@ -24,6 +24,9 @@ banner: 'assets/meeting.jpg'
 
 **Números locais:** <a href="https://us06web.zoom.us/u/kxOybRuDb" target="_blank">Encontre aqui.</a>
 
+**Contacto:** [saalisbon@gmail.com](mailto:saalisbon@gmail.com)
+
+
 ## 2- Viver em Sobriedade
 
 **Lingua:** Português
@@ -39,3 +42,5 @@ banner: 'assets/meeting.jpg'
 **ID da reunião:** 853 2842 9782
 
 **Código de acesso:** 123123
+
+**Contacto:** [viver.em.sobriedade@outlook.pt](mailto:viver.em.sobriedade@outlook.pt)
