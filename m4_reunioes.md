@@ -46,7 +46,7 @@ banner: 'assets/meeting.jpg'
 **Contacto:** [viver.em.sobriedade@outlook.pt](mailto:viver.em.sobriedade@outlook.pt)
 
 
-## 1- Reunião Presencial Lisboa (In-person)
+## 3- Reunião Presencial Lisboa (In-person)
 
 Começa a 22 de Junho (Begins on 22 June)
 
@@ -56,6 +56,6 @@ Começa a 22 de Junho (Begins on 22 June)
 
 **Duração:** 1h30m
 
-**Localização:** https://maps.app.goo.gl/EhcrduBCNEzrvPBV8 (Santos - Lisboa)
+**Localização:** [https://maps.app.goo.gl/EhcrduBCNEzrvPBV8](https://maps.app.goo.gl/EhcrduBCNEzrvPBV8) (Santos - Lisboa)
 
 **Contacto:** João P. +351925119247
