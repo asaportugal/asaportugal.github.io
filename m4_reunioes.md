@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reuniões online
+title: Reuniões
 link: Reuniões
 permalink: /reunioes/
 banner: 'assets/meeting.jpg'
@@ -44,3 +44,18 @@ banner: 'assets/meeting.jpg'
 **Código de acesso:** 123123
 
 **Contacto:** [viver.em.sobriedade@outlook.pt](mailto:viver.em.sobriedade@outlook.pt)
+
+
+## 1- Reunião Presencial Lisboa (In person)
+
+Começa a 22 de Junho (Begins on 22 June)
+
+**Linguas:** Português, English
+
+**Horário:** Quinta-feiras (Thursday) às 19:00 (hora de Portugal Continental, GMT+0)
+
+**Duração:** 1h30m
+
+**Localização:** https://maps.app.goo.gl/EhcrduBCNEzrvPBV8 (Santos - Lisboa)
+
+**Contacto:** João P. +351925119247
