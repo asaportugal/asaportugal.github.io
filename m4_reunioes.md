@@ -48,11 +48,9 @@ banner: 'assets/meeting.jpg'
 
 ## 3- Reunião Presencial Lisboa (In-person)
 
-Começa a 22 de Junho (Begins on 22 June)
-
 **Linguas:** Português, English
 
-**Horário:** Quinta-feiras (Thursday) às 19:00 (hora de Portugal Continental, GMT+0)
+**Horário:** Quinta-feiras (Thursdays) às 19:00 (hora de Portugal Continental, GMT+0)
 
 **Duração:** 1h30m
 
