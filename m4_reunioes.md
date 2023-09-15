@@ -56,4 +56,4 @@ banner: 'assets/meeting.jpg'
 
 **Localização:** <https://maps.app.goo.gl/EhcrduBCNEzrvPBV8> (Santos - Lisboa)
 
-**Contacto:** João P. +351925119247
+**Contacto:** Ole +13917940166906336 and Tiago A. +351965391544

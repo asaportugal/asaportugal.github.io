@@ -15,4 +15,4 @@ Adictos ao Sexo Anónimos (Sex Addicts Anonymous - SAA em inglês) é uma irmand
 
 Estamos aqui para ajudar, pois só podemos manter aquilo que partilharmos.
 
-**For English speakers:** Even if you don't speak Portuguese, you can still join our bilingual Monday [meetings]({{ site.baseurl }}{% link m4_reunioes.md %}), or send us an [e-mail](mailto:saalisbon@gmail.com).
+**For English speakers:** Even if you don't speak Portuguese, you can still join our bilingual Monday (online) and Thursday (in-person) [meetings]({{ site.baseurl }}{% link m4_reunioes.md %}), or send us an [e-mail](mailto:saalisbon@gmail.com).
