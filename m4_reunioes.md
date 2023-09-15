@@ -10,7 +10,7 @@ banner: 'assets/meeting.jpg'
 
 **Linguas:** Português, English
 
-**Horário:** Segundas-feiras (Mondays) às 19:30 (hora de Portugal Continental, GMT+0)
+**Horário:** Segundas-feiras (Mondays) às 19:30 (hora de Portugal Continental)
 
 **Duração:** 1h15m
 
@@ -31,7 +31,7 @@ banner: 'assets/meeting.jpg'
 
 **Lingua:** Português
 
-**Horário:** Quartas-feiras às 19:30 (hora de Portugal Continental, GMT+0)
+**Horário:** Quartas-feiras às 19:30 (hora de Portugal Continental)
 
 **Duração:** 1h15m
 
@@ -50,7 +50,7 @@ banner: 'assets/meeting.jpg'
 
 **Linguas:** Português, English
 
-**Horário:** Quinta-feiras (Thursdays) às 19:00 (hora de Portugal Continental, GMT+0)
+**Horário:** Quinta-feiras (Thursdays) às 19:00 (hora de Portugal Continental)
 
 **Duração:** 1h30m
 
