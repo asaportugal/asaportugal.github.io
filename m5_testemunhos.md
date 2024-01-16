@@ -58,7 +58,7 @@ de usar esforçava por esquecer rapidamente para não ser assaltado pela minha c
 
 ### Juntos conseguimos!
 
->Em 2003 encontrei pela primeira vez alivio da compulsão de certas praticas destrutivas sexuais, depois ter usado "sexo como uma droga",  que praticava desde os meus 13 anos de idade. Hoje tenho 46 anos.  Somente encontrei um novo estilo de vida através da Irmandade de 12 Passos de Adictos ao Sexo Anónimos. Graças a esta Irmandade e aos seus membros, hoje consigo ter uma vida com uma perspectiva positiva e desta forma hoje posso partilhar este novo modo de vida com outros adictos ao sexo que ainda sofrem desta doença. Estou livre de comportamentos compulsivos há mais de 17 meses e eternamente Grato a ASA Portugal.
+>Em 2003 encontrei pela primeira vez alivio da compulsão de certas praticas destrutivas sexuais, depois ter usado "sexo como uma droga",  que praticava desde os meus 13 anos de idade. Hoje tenho 46 anos.  Somente encontrei um novo estilo de vida através da Irmandade de 12 Passos de Adictos ao Sexo Anónimos. Graças a esta Irmandade e aos seus membros, hoje consigo ter uma vida com uma perspectiva positiva e desta forma hoje posso partilhar este novo modo de vida com outros adictos ao sexo que ainda sofrem desta doença. Estou livre de comportamentos compulsivos há mais de 17 meses e eternamente Grato a SAA Portugal.
 >
 >T.
 > 
@@ -75,7 +75,7 @@ de usar esforçava por esquecer rapidamente para não ser assaltado pela minha c
 >
 >Se hoje me consigo manter ABSTINENTE de certos hábitos, noto uma diferença enorme no meu SER, e um crescimento espiritual que não quero mais dar em troca para estar mais ligado e honesto comigo e com a vida! Sinto me profundamente grato aos companheiros e um a um ser superior a mim mesmo em que acredito que é possível ter uma relação com a sexualidade e terceiros em sobriedade e amor!
 >
->Um dia de cada vez feliz de ter encontrado uma solução no ASA-Portugal.org
+>Um dia de cada vez feliz de ter encontrado uma solução no saaportugal.org
 >
 >P.
 >

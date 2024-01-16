@@ -6,12 +6,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: ASA Portugal - Adictos ao Sexo Anónimos Portugal
+title: SAA Portugal - Adictos ao Sexo Anónimos Portugal
 banner: 'assets/index.jpg'
 ---
 Adictos ao Sexo Anónimos (Sex Addicts Anonymous - SAA em inglês) é uma irmandade de pessoas para quem o sexo se tornou um problema muito grave e que se reúnem com o intuito de se entre-ajudarem mutuamente. É um programa baseado no modelo pioneiro de Alcoólicos Anónimos. O único requisito para se ser membro é um desejo honesto de parar de usar os padrões destrutivos de adicção ao sexo que cada um identifique.
 
-​Se precisas de ajuda, ou conheces alguém que precise do nosso apoio, recomendamos-te que assistas às nossas [reuniões]({{ site.baseurl }}{% link m4_reunioes.md %}) ou que entres em [contacto](mailto:saalisbon@gmail.com) connosco. [O website internacional de ASA](https://saa-recovery.org) também contém recursos úteis (a língua portuguesa pode ser seleccionada a partir do canto superior esquerdo).
+​Se precisas de ajuda, ou conheces alguém que precise do nosso apoio, recomendamos-te que assistas às nossas [reuniões]({{ site.baseurl }}{% link m4_reunioes.md %}) ou que entres em [contacto](mailto:saalisbon@gmail.com) connosco. [O website internacional de SAA](https://saa-recovery.org) também contém recursos úteis (a língua portuguesa pode ser seleccionada a partir do canto superior esquerdo).
 
 Estamos aqui para ajudar, pois só podemos manter aquilo que partilharmos.
 
