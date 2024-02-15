@@ -57,3 +57,22 @@ banner: 'assets/meeting.jpg'
 **Localização:** <https://maps.app.goo.gl/EhcrduBCNEzrvPBV8> (Santos - Lisboa)
 
 **Contacto:** Ole +13917940166906336
+
+
+## 4- Viver em Sobriedade II
+
+**Lingua:** Português
+
+**Horário:** Sextas-feiras às 19:30 (hora de Portugal Continental)
+
+**Duração:** 1h15m
+
+**Detalhes da reunião do Zoom:**
+
+**Link:** <https://us05web.zoom.us/j/85328429782?pwd=enNiVGdKOUtyWjRGV1RpQU15Q1NuQT09>
+
+**ID da reunião:** 853 2842 9782
+
+**Código de acesso:** 123123
+
+**Contacto:** [viver.em.sobriedade@outlook.pt](mailto:viver.em.sobriedade@outlook.pt)
