@@ -27,7 +27,7 @@ banner: 'assets/meeting.jpg'
 **Contacto:** [saalisbon@gmail.com](mailto:saalisbon@gmail.com)
 
 
-## 2- Viver em Sobriedade
+<!-- ## 2- Viver em Sobriedade
 
 **Lingua:** Português
 
@@ -43,10 +43,10 @@ banner: 'assets/meeting.jpg'
 
 **Código de acesso:** 123123
 
-**Contacto:** [viver.em.sobriedade@outlook.pt](mailto:viver.em.sobriedade@outlook.pt)
+**Contacto:** [viver.em.sobriedade@outlook.pt](mailto:viver.em.sobriedade@outlook.pt) -->
 
 
-## 3- Reunião Presencial Lisboa (In-person)
+## 2- Reunião Presencial Lisboa (In-person)
 
 **Linguas:** Português, English
 
@@ -59,7 +59,7 @@ banner: 'assets/meeting.jpg'
 **Contacto:** Ole +13917940166906336
 
 
-## 4- Viver em Sobriedade II
+## 3- Viver em Sobriedade II
 
 **Lingua:** Português
 
