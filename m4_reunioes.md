@@ -59,7 +59,7 @@ banner: 'assets/meeting.jpg'
 **Contacto:** Ole +13917940166906336
 
 
-## 3- Viver em Sobriedade II
+## 3- Viver em Sobriedade
 
 **Lingua:** Português
 
