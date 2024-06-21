@@ -56,7 +56,7 @@ banner: 'assets/meeting.jpg'
 
 **Localização:** <https://maps.app.goo.gl/EhcrduBCNEzrvPBV8> (Santos - Lisboa)
 
-**Contacto:** Joao +351 925119247
+**Contacto:** João +351 925119247
 
 
 ## 3- Viver em Sobriedade
