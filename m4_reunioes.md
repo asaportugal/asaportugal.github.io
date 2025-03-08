@@ -6,7 +6,7 @@ permalink: /reunioes/
 banner: 'assets/meeting.jpg'
 ---
 
-## 1- Into the Light
+## 1- Into the Light: Reunião Online
 
 **Linguas:** Português, English
 
@@ -14,21 +14,19 @@ banner: 'assets/meeting.jpg'
 
 **Duração:** 1h15m
 
+**Contacto:** [saalisbon@gmail.com](mailto:saalisbon@gmail.com)
+
 **Detalhes da reunião do Zoom:**
 
-**Link:** <https://us06web.zoom.us/j/83251639323?pwd=Sjc2ZDFFa2wzQUhDemxBNjFnaGdqUT09>
+**Link:** <https://us06web.zoom.us/j/82226774721?pwd=Wze72ISC8BBIzBJQWGXDcZsFGYVfaO.1>
 
-**ID da reunião:** 832 5163 9323
+**ID da reunião:** 822 2677 4721
 
 **Código de acesso:** 121212
 
-**Números locais:** <a href="https://us06web.zoom.us/u/kxOybRuDb" target="_blank">Encontre aqui.</a>
-
-**Contacto:** [saalisbon@gmail.com](mailto:saalisbon@gmail.com)
 
 
-
-## 2- Reunião Presencial Lisboa (In-person)
+## 2- Into the Light: Reunião Presential e Online Lisboa
 
 **Linguas:** Português, English
 
@@ -39,4 +37,12 @@ banner: 'assets/meeting.jpg'
 **Localização:** <https://maps.app.goo.gl/EhcrduBCNEzrvPBV8> (Santos - Lisboa)
 
 **Contacto:** João +351 925119247
+
+**Detalhes da reunião do Zoom:**
+
+**Link:** <https://us06web.zoom.us/j/82226774721?pwd=Wze72ISC8BBIzBJQWGXDcZsFGYVfaO.1>
+
+**ID da reunião:** 822 2677 4721
+
+**Código de acesso:** 12121
 
