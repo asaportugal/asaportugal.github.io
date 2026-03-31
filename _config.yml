@@ -1,4 +1,5 @@
 title: ADICTOS AO SEXO ANÓNIMOS PORTUGAL
+title_en: SEX ADDICTS ANONYMOUS PORTUGAL
 author:
   name: Contacto
   email: saalisbon@gmail.com
@@ -6,7 +7,7 @@ author:
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
-
+lang: pt
 description: SAA Portugal. Adictos Sexo Anónimos Portugal. SAA Portugal. Sex Addicts Anonymous Portugal. Viciados em sexo anónimos Portugal.
 
 show_excerpts: false # set to true to show excerpts on the homepage

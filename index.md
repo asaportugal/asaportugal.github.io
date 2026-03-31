@@ -7,6 +7,8 @@
 #
 layout: home
 title: SAA Portugal - Adictos ao Sexo Anónimos Portugal
+lang: pt
+ref: home
 banner: 'assets/index.jpg'
 ---
 Adictos ao Sexo Anónimos (Sex Addicts Anonymous - SAA em inglês) é uma irmandade de pessoas para quem o sexo se tornou um problema muito grave e que se reúnem com o intuito de se entre-ajudarem mutuamente. É um programa baseado no modelo pioneiro de Alcoólicos Anónimos. O único requisito para se ser membro é um desejo honesto de parar de usar os padrões destrutivos de adicção ao sexo que cada um identifique.
@@ -15,4 +17,4 @@ Adictos ao Sexo Anónimos (Sex Addicts Anonymous - SAA em inglês) é uma irmand
 
 Estamos aqui para ajudar, pois só podemos manter aquilo que partilharmos.
 
-**For English speakers:** Even if you don't speak Portuguese, you can still join our bilingual Monday (online) and Thursday (in-person) [meetings]({{ site.baseurl }}{% link m4_reunioes.md %}), or send us an [e-mail](mailto:saalisbon@gmail.com).
+**For English speakers:** Even if you don't speak Portuguese, you can still join our bilingual Monday (online) and Thursday (in-person) [meetings]({{ site.baseurl }}{% link m4_meetings.md %}), or send us an [e-mail](mailto:saalisbon@gmail.com).
