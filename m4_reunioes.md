@@ -42,7 +42,7 @@ banner: 'assets/meeting.jpg'
 
 **ID da reunião:** 822 2677 4721
 
-**Código de acesso:** 12121
+**Código de acesso:** 121212
 
 ## 3- Into the Light: Reunião Presencial e Online Lisboa
 
@@ -62,5 +62,5 @@ banner: 'assets/meeting.jpg'
 
 **ID da reunião:** 822 2677 4721
 
-**Código de acesso:** 12121
+**Código de acesso:** 121212
 

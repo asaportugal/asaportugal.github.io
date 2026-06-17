@@ -42,7 +42,7 @@ banner: 'assets/meeting.jpg'
 
 **Meeting ID:** 822 2677 4721
 
-**Access Code:** 12121
+**Access Code:** 121212
 
 ## 3- Into the Light: In-Person and Online Meeting in Lisbon
 
@@ -62,4 +62,4 @@ banner: 'assets/meeting.jpg'
 
 **Meeting ID:** 822 2677 4721
 
-**Access Code:** 12121
+**Access Code:** 121212
