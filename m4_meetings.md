@@ -8,7 +8,7 @@ lang: en
 banner: 'assets/meeting.jpg'
 ---
 
-## 1- Into the Light: Online Meeting
+## 1- Into the Light: Online Meeting (Monday)
 
 **Languages:** Portuguese, English
 
@@ -26,9 +26,25 @@ banner: 'assets/meeting.jpg'
 
 **Access Code:** 121212
 
+## 2- Into the Light: Online Meeting (Saturday)
 
+**Languages:** Portuguese, English
 
-## 2- Into the Light: In-Person and Online Meeting in Lisbon
+**Time:** Saturdays at 10:00 (Portugal Mainland Time)
+
+**Duration:** 1h15m
+
+**Contact:** Bernardo +351 917284827
+
+**Zoom Meeting Details:**
+
+**Link:** <https://us06web.zoom.us/j/82226774721?pwd=Wze72ISC8BBIzBJQWGXDcZsFGYVfaO.1>
+
+**Meeting ID:** 822 2677 4721
+
+**Access Code:** 12121
+
+## 3- Into the Light: In-Person and Online Meeting in Lisbon
 
 **Languages:** Portuguese, English
 

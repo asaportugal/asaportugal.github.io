@@ -8,7 +8,7 @@ lang: pt
 banner: 'assets/meeting.jpg'
 ---
 
-## 1- Into the Light: Reunião Online
+## 1- Into the Light: Reunião Online (Segunda-feira)
 
 **Linguas:** Português, English
 
@@ -26,9 +26,25 @@ banner: 'assets/meeting.jpg'
 
 **Código de acesso:** 121212
 
+## 2- Into the Light: Reunião Online (Sábado)
 
+**Linguas:** Português, English
 
-## 2- Into the Light: Reunião Presential e Online Lisboa
+**Horário:** Sábados de manhã às 10h00 (hora de Portugal Continental)
+
+**Duração:** 1h15m
+
+**Contacto:** Bernardo +351 917284827
+
+**Detalhes da reunião do Zoom:**
+
+**Link:** <https://us06web.zoom.us/j/82226774721?pwd=Wze72ISC8BBIzBJQWGXDcZsFGYVfaO.1>
+
+**ID da reunião:** 822 2677 4721
+
+**Código de acesso:** 12121
+
+## 3- Into the Light: Reunião Presencial e Online Lisboa
 
 **Linguas:** Português, English
 
