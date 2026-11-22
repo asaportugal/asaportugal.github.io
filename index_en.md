@@ -13,4 +13,4 @@ If you need help, or know someone who needs our support, we recommend that you a
 
 We are here to help, because we can only keep what we share.
 
-**For English speakers:** Even if you don't speak Portuguese, you can still join our bilingual Monday (online) and Thursday (in-person) [meetings]({{ site.baseurl }}{% link m4_meetings.md %}), or send us an [e-mail](mailto:saalisbon@gmail.com).
+**For English speakers:** Even if you don't speak Portuguese, you can still join our bilingual Monday (online), Thursday (in-person and online), and Saturday (online) [meetings]({{ site.baseurl }}{% link m4_meetings.md %}), or send us an [e-mail](mailto:saalisbon@gmail.com).
